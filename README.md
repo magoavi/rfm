@@ -7,7 +7,8 @@
 
 [![Packagist](https://img.shields.io/badge/license-GNU%20GPL-blue.svg)](#license)
 [![Packagist](https://img.shields.io/badge/author-avimago-green.svg)](https://github.com/magoavi)
-[![Packagist](https://img.shields.io/badge/download-pdf-yellow.svg)](https://github.com/magoavi/iv/blob/master/iv.pdf)
+
+# ![alt text](https://raw.githubusercontent.com/magoavi/rfm/master/supplementary_files/lift_cover.png)
 
 > **R**ecency **F**requency **M**onetary Model Implementation
 
